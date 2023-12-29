@@ -48,7 +48,8 @@ public class Program {
 				reservation.update(checkIn, checkOut);
 				System.out.println("Reservaon: " + reservation);
 			}
-
+			
+			System.out.println("teste");
 			sc.close();
 		}
 
